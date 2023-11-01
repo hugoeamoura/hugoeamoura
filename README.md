@@ -1,3 +1,25 @@
+<h1> 🖖Hello World, I'm Hugo! </h1>
+<ul>
+  <li>🎓 Graduated in Systems Analysis and Development.</li>
+  <li>💻 Currently studying Full Stack Development at <link>https://aulas.devclub.com.br/courses</link>. </li>
+</ul>
+
+<h1>Current Stack</h1>
+<ul>
+  <li>🥇 Main Language: Javascript.</li>
+  <li>🎉 Frontend: HTML5, CSS3, Javascript, ReactJS.</li>
+  <li>⚙ Backend: NodeJS.</li>
+  <li>📦 Version code control: Git and Github.</li>
+  <li>🛠️ Tools: VS Code.</li>
+  <li>🎨 Layout Design: Figma.</li>
+</ul>
+
+<h1>Contacts</h1>
+<li>✉️ Email: hugoedwardo@outlook.com</li>
+<li>✨ Linkedin: https://www.linkedin.com/in/hugo-e-a-moura/</li>
+
+
+<h1>Github Status</h1>
 <div>
   <a href="https://github.com/hugoeamoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoeamoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,8 +37,6 @@
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hugoedwardo@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hugo-moura-024150216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
